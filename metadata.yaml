@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5166
     wikipedia: http://en.wikipedia.org/wiki/Raphael_Holinshed
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45526#Chronicles-of-England-Scotland-and-Ireland--2-of-6---England--7-of-12-Iohn-the-Yongest-Sonne-_
 gutenberg_issued: '2014-04-28'
 gutenberg_type: Text
 identifiers:
