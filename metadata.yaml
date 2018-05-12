@@ -1,0 +1,34 @@
+_repo: Chronicles-of-England-Scotland-and-Ireland--2-of-6---England--7-of-12-Iohn-the-Yongest-Sonne-__45526
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45526-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Holinshed, Raphael
+    aliases:
+    - Holinshed, Ralph
+    - Holingshed, Raphael
+    - Holynshed, Raphael
+    - Holinshead, Raphael
+    - Holinshed, Raphaell
+    gutenberg_agent_id: '5166'
+    url: http://www.gutenberg.org/2009/agents/5166
+    wikipedia: http://en.wikipedia.org/wiki/Raphael_Holinshed
+description: ''
+gutenberg_issued: '2014-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45526'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- John, 1199-1216'
+- !lcsh 'Great Britain -- History -- To 1485'
+- !lcsh 'Great Britain -- History -- Tudors, 1485-1603'
+title: "Chronicles of England, Scotland and Ireland (2 of 6): England (07 of 12)\r\
+  \nIohn the Yongest Sonne of Henrie the Second"
+url: http://www.gutenberg.org/ebooks/45526
